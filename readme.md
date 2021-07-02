@@ -2,7 +2,7 @@
 
 # CAD201EN - Developing Cloud Native Applications
 
-### edX.org online course (CAD201EN) - 5 module course
+### edX.org online course (CAD201EN) - 6 module course
 
 ### Welcome
 
