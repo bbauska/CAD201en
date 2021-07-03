@@ -90,7 +90,7 @@ After completing this course, you will be able to:
 8.  **Lab 4: DevOps on IBM Cloud**
 9.  **Module Summary**
 
-### Module 5: REST Architecture and Watson APIs 
+## Module 5: REST Architecture and Watson APIs 
 
 1.  **Module Introduction**
 2.  **Introduction to Representational State Transfer (REST)**
@@ -100,7 +100,7 @@ After completing this course, you will be able to:
 6.  **Introduction to Postman**
 7.  **Module Summary\*\***
 
-### Module 6: Introduction to Data Services in IBM Cloud 
+## Module 6: Introduction to Data Services in IBM Cloud 
 
 1.  **Module Introduction**
 2.  **Overview of Database Services in IBM Cloud**
