@@ -52,8 +52,6 @@ After completing this course, you will be able to:
 8.  **Continuous Integration/Continuous Delivery - SRE, TDD** 
 9.  **Lab 1: Cloud Native Terms and Concepts** 
 10.  **Module Summary** 
-11.  **Practice Quiz** 
-12.  **Graded Quiz**
 
 ## Module 2: Getting Started with IBM Cloud 
 
@@ -69,8 +67,6 @@ After completing this course, you will be able to:
 10.  **Managing Organizations and Resources**
 11.  **Lab 2: Getting Started with IBM Cloud**
 12.  **Module Summary**
-13.  **Practice Quiz**
-14.  **Graded Quiz**
 
 ## Module 3: IBM Cloud CLI 
 
@@ -81,44 +77,35 @@ After completing this course, you will be able to:
 5.  **IBM Cloud Developer Tools for Visual Studio Code**
 6.  **Lab 3: Using CLIs**
 7.  **Module Summary**
-8.  **Practice Quiz**
-9.  **Graded Quiz**
 
 ## Module 4: DevOps on IBM Cloud 
 
 1.  Module Introduction  
-    Introduction to a DevOps Approach  
-    IBM Cloud Continuous Delivery Overview  
-    Creating IBM Cloud Continuous Delivery Toolchains  
-    Web IDE Features  
-    Source Code Management (Git Repo) and Issue Tracker  
-    Build and Deploy Automated Delivery Pipeline  
-    Lab 4: DevOps on IBM Cloud  
-    Module Summary  
-    Practice Quiz  
-    Graded Quiz
+2.  Introduction to a DevOps Approach  
+3.  IBM Cloud Continuous Delivery Overview  
+4.  Creating IBM Cloud Continuous Delivery Toolchains  
+5.  Web IDE Features  
+6.  Source Code Management (Git Repo) and Issue Tracker  
+7.  Build and Deploy Automated Delivery Pipeline  
+8.  Lab 4: DevOps on IBM Cloud  
+9.  Module Summary  
 
-###   
-Module 5: REST Architecture and Watson APIs 
+### Module 5: REST Architecture and Watson APIs 
 
 1.  Module Introduction  
-    Introduction to Representational State Transfer (REST)  
-    REST Characteristics and RESTful Web Services  
-    JavaScript Object Notation (JSON)  
-    Using REST APIs with Watson AI Services  
-    Introduction to Postman  
-    Module Summary  
-    Practice Quiz  
-    Graded Quiz
+2.  Introduction to Representational State Transfer (REST)  
+3.  REST Characteristics and RESTful Web Services  
+4.  JavaScript Object Notation (JSON)  
+5.  Using REST APIs with Watson AI Services  
+6.  Introduction to Postman  
+7.  Module Summary  
 
-###   
-Module 6: Introduction to Data Services in IBM Cloud 
+### Module 6: Introduction to Data Services in IBM Cloud 
 
 1.  Module Introduction  
-    Overview of Database Services in IBM Cloud  
-    Overview of IBM Cloudant  
-    Getting Started with IBM Cloudant  
-    Lab 6: Working with IBM Cloudant  
-    Module Summary  
-    Practice Quiz  
-    Graded Quiz
+2.  Overview of Database Services in IBM Cloud  
+3.  Overview of IBM Cloudant  
+4.  Getting Started with IBM Cloudant  
+5.  Lab 6: Working with IBM Cloudant  
+6.  Module Summary  
+    
