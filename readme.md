@@ -20,22 +20,22 @@ Anyone and everyone who wants to start building cloud applications - whether you
 ### Prerequisites
 
 *   Familiarity with Cloud concepts and terminology
-*   Basic literacy in Cloud Application Development 
+*   Basic literacy in Cloud Application Development
 *   Basic knowledge of HTML and JavaScript
 
 ### Learning Objectives
 
 After completing this course, you will be able to:
 
-*   Describe Cloud Native and DevOps concepts and methodologies 
-*   Build and Deploy code to IBM Cloud using DevOps tools and services 
-*   Create a Node.js application on Cloud 
-*   Utilize REST APIs in your app to store and retrieve data in a NoSQL Cloudant Database 
-*   Create a Git repository to manage your source code  
-*   Describe the characteristics of REST APIs  
-*   Explain the advantages of the JSON data format 
-*   View and edit code using a Web IDE 
-*   Access your IBM Cloud account and services using CLI and Web UI 
+*   Describe Cloud Native and DevOps concepts and methodologies
+*   Build and Deploy code to IBM Cloud using DevOps tools and services
+*   Create a Node.js application on Cloud
+*   Utilize REST APIs in your app to store and retrieve data in a NoSQL Cloudant Database
+*   Create a Git repository to manage your source code
+*   Describe the characteristics of REST APIs
+*   Explain the advantages of the JSON data format
+*   View and edit code using a Web IDE
+*   Access your IBM Cloud account and services using CLI and Web UI
 *   Identify and navigate DevOps, AI, and Database services in IBM Cloud
 
 ### Syllabus
@@ -44,14 +44,14 @@ After completing this course, you will be able to:
 
 1.  **Course Introduction Video**
 2.  **Module Introduction**
-3.  **Cloud Computing Overview** 
+3.  **Cloud Computing Overview**
 4.  **Cloud Native Applications**
 5.  **CNCF**
-6.  **Hybrid Cloud** 
-7.  **Preparation for Modernization** 
-8.  **Continuous Integration/Continuous Delivery - SRE, TDD** 
-9.  **Lab 1: Cloud Native Terms and Concepts** 
-10.  **Module Summary** 
+6.  **Hybrid Cloud**
+7.  **Preparation for Modernization**
+8.  **Continuous Integration/Continuous Delivery - SRE, TDD**
+9.  **Lab 1: Cloud Native Terms and Concepts**
+10.  **Module Summary**
 
 ## Module 2: Getting Started with IBM Cloud 
 
@@ -78,34 +78,33 @@ After completing this course, you will be able to:
 6.  **Lab 3: Using CLIs**
 7.  **Module Summary**
 
-## Module 4: DevOps on IBM Cloud 
+## Module 4: DevOps on IBM Cloud
 
-1.  Module Introduction  
-2.  Introduction to a DevOps Approach  
-3.  IBM Cloud Continuous Delivery Overview  
-4.  Creating IBM Cloud Continuous Delivery Toolchains  
-5.  Web IDE Features  
-6.  Source Code Management (Git Repo) and Issue Tracker  
-7.  Build and Deploy Automated Delivery Pipeline  
-8.  Lab 4: DevOps on IBM Cloud  
-9.  Module Summary  
+1.  **Module Introduction**
+2.  **Introduction to a DevOps Approach**
+3.  **IBM Cloud Continuous Delivery Overview**
+4.  **Creating IBM Cloud Continuous Delivery Toolchains**
+5.  **Web IDE Features**
+6.  **Source Code Management (Git Repo) and Issue Tracker**
+7.  **Build and Deploy Automated Delivery Pipeline**
+8.  **Lab 4: DevOps on IBM Cloud**
+9.  **Module Summary**
 
 ### Module 5: REST Architecture and Watson APIs 
 
-1.  Module Introduction  
-2.  Introduction to Representational State Transfer (REST)  
-3.  REST Characteristics and RESTful Web Services  
-4.  JavaScript Object Notation (JSON)  
-5.  Using REST APIs with Watson AI Services  
-6.  Introduction to Postman  
-7.  Module Summary  
+1.  **Module Introduction**
+2.  **Introduction to Representational State Transfer (REST)**
+3.  **REST Characteristics and RESTful Web Services**
+4.  **JavaScript Object Notation (JSON)**
+5.  **Using REST APIs with Watson AI Services**
+6.  **Introduction to Postman**
+7.  **Module Summary\*\***
 
 ### Module 6: Introduction to Data Services in IBM Cloud 
 
-1.  Module Introduction  
-2.  Overview of Database Services in IBM Cloud  
-3.  Overview of IBM Cloudant  
-4.  Getting Started with IBM Cloudant  
-5.  Lab 6: Working with IBM Cloudant  
-6.  Module Summary  
-    
+1.  **Module Introduction**
+2.  **Overview of Database Services in IBM Cloud**
+3.  **Overview of IBM Cloudant**
+4.  **Getting Started with IBM Cloudant**
+5.  **Lab 6: Working with IBM Cloudant**
+6.  **Module Summary**
