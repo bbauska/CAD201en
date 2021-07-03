@@ -98,7 +98,7 @@ After completing this course, you will be able to:
 4.  **JavaScript Object Notation (JSON)**
 5.  **Using REST APIs with Watson AI Services**
 6.  **Introduction to Postman**
-7.  **Module Summary\*\***
+7.  **Module Summary**
 
 ## Module 6: Introduction to Data Services in IBM Cloud 
 
