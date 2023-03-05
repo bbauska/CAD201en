@@ -1,6 +1,6 @@
 \*\*readme.md\*\*
 
-# CAD201EN - Developing Cloud Native Applications
+# CAD201en - Developing Cloud Native Applications
 
 ### edX.org online course (CAD201EN) - 6 module course
 
